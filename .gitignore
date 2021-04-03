@@ -1,0 +1,9 @@
+# Binaries
+*.exe
+*.exe~
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
